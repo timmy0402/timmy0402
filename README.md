@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @timmy0402
-- 👀 I’m interested in artificial intelligence and game development
+- 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently a CSSE student at UWB
 - 📫 How to reach me minhnhathb04@gmail.com
 
