@@ -2,4 +2,4 @@ I'm Tim Huynh from University of Washington Bothell
 
 my email: minhnhathb04@gmail.com
 
-my website: [Link](timhmn.com)
+my website: [Link](https://www.timhmn.com/)
