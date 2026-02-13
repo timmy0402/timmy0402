@@ -23,4 +23,4 @@ University of Washington Bothell
 ## 🌐 Links
 - **Website:** [https://www.timhmn.com](https://www.timhmn.com)
 - **Email:** minhnhathb04@gmail.com
-- **CubeCrafter**: [https://cubecrafter.azurewebsites.net/]
+- **CubeCrafter**: [https://cubecrafter.azurewebsites.net](https://cubecrafter.azurewebsites.net)
