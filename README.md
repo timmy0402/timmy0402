@@ -81,7 +81,7 @@ Wearable hardware that streams accelerometer + gyroscope data from an Arduino ov
 A neural network library built from scratch in NumPy — forward/backward passes, no high-level frameworks. **98% accuracy on MNIST** and a 2x2 Rubik's cube solver with a 90% success rate on top of it.
 `Python` · `NumPy` · `Machine Learning`
 
-#### 🎲 [CubeCrafter](https://cube-crafter-site.vercel.app/)
+#### 🎲 [CubeCrafter](https://cubecrafter.app/)
 A Discord bot for the speedcubing community, currently serving **80+ servers**. SQL-backed solve-time tracking with a CI/CD pipeline (GitHub Actions + containers) for zero-downtime deploys.
 `Python` · `SQL` · `Docker` · `GitHub Actions`
 
