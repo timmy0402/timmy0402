@@ -86,6 +86,3 @@ A Discord bot for the speedcubing community, currently serving **80+ servers**. 
 `Python` · `SQL` · `Docker` · `GitHub Actions`
 
 ---
-<p align="center">
-  <i>Always learning, currently exploring distributed systems and LLM infrastructure.</i>
-</p>
