@@ -14,13 +14,11 @@
 
 ### About Me
 
-CS new grad from the **University of Washington** (GPA 3.86), now based in Texas and looking for **software engineering roles** in backend, full-stack, or applied ML.
+CS new grad from the **University of Washington** (GPA 3.86), now based in Dallas–Fort Worth metroplex. 
 
 - 🔭 Most recently: built a hybrid semantic + keyword search system over a **60K+ product catalog** as an AI Engineer Intern at FPT Retail
 - 🧠 I like working close to the model — wrote a neural network library from scratch in NumPy (98% on MNIST), shipped Vietnamese NLP to production
 - 🛠️ I also like working close to the metal — Arduino + Bluetooth + Python visualization for a wearable hand-tracker
-- 💬 Ask me about: vector search, Vietnamese NLP, Rubik's cubes, or why my Discord bot has 80+ servers
-- 📫 Open to new grad / early-career SWE roles
 
 ---
 
